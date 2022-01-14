@@ -1,2 +1,3 @@
-Ê¸»ú²½¤±¤·¤Ê¤¤¡©
-EUC-code
+æ–‡å­—åŒ–ã‘ã—ãªã„ï¼Ÿ
+EUC-code is bad
+UTF8
